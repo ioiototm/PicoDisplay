@@ -21,8 +21,7 @@ Here is how it looks in action:
 - Customize the display style and data formatting as needed.
 
 ## Related Projects
-This works together with my **Pico Server** project, which collects and sends system stats to the Pico. You can find that repo here:  
-[**Pico Server Repo**](https://github.com/ioiototm/PicoServer)
+This works together with my **Pico Server** project, which collects and sends system stats to the Pico. You can find that repo here: [**Pico Server Repo**](https://github.com/ioiototm/PicoServer)
 
 ## Libraries Used
 This project makes use of the amazing [**TFT_eSPI**](https://github.com/Bodmer/TFT_eSPI) library, which makes handling graphics and display elements super easy. Big shoutout to Bodmer for such a fantastic library! You can check out the full details and license for TFT_eSPI here:
